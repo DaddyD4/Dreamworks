@@ -54,6 +54,10 @@
   --light-gray: #fafafb;
   --dmsans: "DM Sans", sans-serif;
 }
+mark.orange {
+    color:#e85d32;
+    background: none;
+}
 * {
   margin: 0;
   padding: 0;
